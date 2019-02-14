@@ -10,9 +10,6 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
-  "peerDependencies": {
-    "react-native": "^0.58.4"
-  }
+  "author": "Kacper Grzeszczyk <kacgrzes@gmail.com>",
+  "license": "MIT"
 }
