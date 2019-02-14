@@ -34,15 +34,6 @@
       compile project(':react-native-global-payments')
   	```
 
-#### Windows
-[Read it! :D](https://github.com/ReactWindows/react-native)
-
-1. In Visual Studio add the `RNGlobalPayments.sln` in `node_modules/react-native-global-payments/windows/RNGlobalPayments.sln` folder to their solution, reference from their app.
-2. Open up your `MainPage.cs` app
-  - Add `using Global.Payments.RNGlobalPayments;` to the usings at the top of the file
-  - Add `new RNGlobalPaymentsPackage()` to the `List<IReactPackage>` returned by the `Packages` method
-
-
 ## Usage
 ```javascript
 import RNGlobalPayments from 'react-native-global-payments';
